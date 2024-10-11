@@ -1,0 +1,102 @@
+[submodule "ai-samples"]
+	path = ai-samples
+	url = git@github.com:android/ai-samples.git
+[submodule "animation-samples"]
+	path = animation-samples
+	url = git@github.com:android/animation-samples.git
+[submodule "app-bundle-samples"]
+	path = app-bundle-samples
+	url = git@github.com:android/app-bundle-samples.git
+[submodule "architecture-components-samples"]
+	path = architecture-components-samples
+	url = git@github.com:android/architecture-components-samples.git
+[submodule "camera-samples"]
+	path = camera-samples
+	url = git@github.com:android/camera-samples.git
+[submodule "car-samples"]
+	path = car-samples
+	url = git@github.com:android/car-samples.git
+[submodule "compose-samples"]
+	path = compose-samples
+	url = git@github.com:android/compose-samples.git
+[submodule "connectivity-samples"]
+	path = connectivity-samples
+	url = git@github.com:android/connectivity-samples.git
+[submodule "databinding-samples"]
+	path = databinding-samples
+	url = git@github.com:android/databinding-samples.git
+[submodule "fit-samples"]
+	path = fit-samples
+	url = git@github.com:android/fit-samples.git
+[submodule "games-samples"]
+	path = games-samples
+	url = git@github.com:android/games-samples.git
+[submodule "graphics-samples"]
+	path = graphics-samples
+	url = git@github.com:android/graphics-samples.git
+[submodule "health-samples"]
+	path = health-samples
+	url = git@github.com:android/health-samples.git
+[submodule "identity-samples"]
+	path = identity-samples
+	url = git@github.com:android/identity-samples.git
+[submodule "input-samples"]
+	path = input-samples
+	url = git@github.com:android/input-samples.git
+[submodule "kotlin-multiplatform-samples"]
+	path = kotlin-multiplatform-samples
+	url = git@github.com:android/kotlin-multiplatform-samples.git
+[submodule "media-samples"]
+	path = media-samples
+	url = git@github.com:android/media-samples.git
+[submodule "midi-samples"]
+	path = midi-samples
+	url = git@github.com:android/midi-samples.git
+[submodule "neural-networks-samples"]
+	path = neural-networks-samples
+	url = git@github.com:android/neural-networks-samples.git
+[submodule "packager-manager-samples"]
+	path = packager-manager-samples
+	url = git@github.com:android/packager-manager-samples.git
+[submodule "performance-samples"]
+	path = performance-samples
+	url = git@github.com:android/performance-samples.git
+[submodule "privacy-sandbox-samples"]
+	path = privacy-sandbox-samples
+	url = git@github.com:android/privacy-sandbox-samples.git
+[submodule "renderscript-samples"]
+	path = renderscript-samples
+	url = git@github.com:android/renderscript-samples.git
+[submodule "search-samples"]
+	path = search-samples
+	url = git@github.com:android/search-samples.git
+[submodule "security-samples"]
+	path = security-samples
+	url = git@github.com:android/security-samples.git
+[submodule "testing-samples"]
+	path = testing-samples
+	url = git@github.com:android/testing-samples.git
+[submodule "tv-samples"]
+	path = tv-samples
+	url = git@github.com:android/tv-samples.git
+[submodule "uamp"]
+	path = uamp
+	url = git@github.com:android/uamp.git
+[submodule "user-interface-samples"]
+	path = user-interface-samples
+	url = git@github.com:android/user-interface-samples.git
+[submodule "wear-os-samples"]
+	path = wear-os-samples
+	url = git@github.com:android/wear-os-samples.git
+[submodule "platform-samples"]
+	path = platform-samples
+	url = git@github.com:android/platform-samples.git
+[submodule "sensors-samples"]
+	path = sensors-samples
+	url = git@github.com:android/sensors-samples.git
+[submodule "storage-samples"]
+	path = storage-samples
+	url = git@github.com:android/storage-samples.git
+[submodule "views-widgets-samples"]
+	path = views-widgets-samples
+	url = git@github.com:android/views-widgets-samples.git
